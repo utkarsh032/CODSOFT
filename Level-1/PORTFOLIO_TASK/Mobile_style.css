@@ -1,0 +1,114 @@
+@media only screen and (max-width: 1235px) {
+
+
+
+  #my-name {
+    font-size: 4.5rem;
+  }
+
+  .social-icons li a i {
+    font-size: 2.1rem;
+  }
+
+  #body-header {
+    width: 100%;
+    height: auto;
+  }
+
+
+  .scanner {
+    visibility: hidden;
+  }
+
+  .info {
+    align-items: center;
+
+  }
+
+  #ud {
+    font-size: 8rem;
+  }
+
+  .skills,
+  .tool {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+  }
+
+  .skill-box img {
+    width: 15rem;
+    height: 15rem;
+  }
+
+
+  #name-social-container {
+    height: 25vh;
+  }
+
+  #about {
+    /* background-color: red; */
+    height: 45vh;
+  }
+
+  .intro {
+    display: flex;
+    flex-direction: column;
+    margin-top: 15vh;
+  }
+
+  #my-image img {
+    height: 25rem;
+    width: 25rem;
+    margin-left: -50%;
+  }
+
+  .projects {
+    font-size: 1.2rem;
+  }
+
+  .project {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .projectview img {
+    width: 90%;
+    height: auto;
+  }
+
+  .project .projecttext i {
+    line-height: 3rem;
+
+  }
+
+  .projecttext {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .container .row100 {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .container .row100 .col {
+    /* width: 100%;
+    height: 10vh; */
+  }
+
+  .container .row100 .col input,
+  .container .row100 .col textarea {
+    font-size: 4rem;
+    width: 90%;
+    height: 40%;
+  }
+
+  .container .row100 .col button {
+    width: 17rem;
+    height: 7rem;
+    font-size: 4rem;
+  }
+
+
+
+}
